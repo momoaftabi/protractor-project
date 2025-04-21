@@ -1,0 +1,12 @@
+{
+    "doctor_create_m": {
+        "name": "Test Med Doctor9",
+        "reg": "2010",
+        "phone": "01792310222"
+    },
+    "doctor_create_d": {
+        "name": "Test Den Doctor9",
+        "reg": "2009",
+        "phone": "01792310222"
+    }
+}
